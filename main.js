@@ -1,3 +1,4 @@
+//Testing our stack.js
 var Stack = require('./stack')
 var stack = new Stack();
 stack.push("Bulbasaur");
